@@ -20,3 +20,9 @@ Day 4
 ---
 
 Fixed some bugs in route component. Handled same starting and ending destinations validation. Fixed form validation for select elements. Form is getting clear even after a validation message, tried to fix that, but remaining for tomorrow.
+
+
+Day 5
+---
+
+Coverted Charges Form component from uncontrolled to controlled inputs. Added validation for duplicate records and invalid records. Need to speed up a little bit.
